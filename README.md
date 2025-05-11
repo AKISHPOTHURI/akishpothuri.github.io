@@ -1,3 +1,13 @@
+---
+layout: default
+---
+
+<p align="center">
+  <img src="/assets/img/circledpic.png" width="200" alt="Profile Picture"/>
+</p>
+
+<h1 align="center">Akish Pothuri</h1>
+
 # Data Scientist
 
 ### Skills
