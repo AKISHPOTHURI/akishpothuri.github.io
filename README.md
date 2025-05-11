@@ -32,7 +32,7 @@ layout: nofooter
   </ul>
 </div>
 <!-- Right Side: Text Content -->
-<div style="flex: 2; min-width: 300px;margin-bottom: 950px; display: block;">
+<div style="flex: 2; min-width: 300px;margin-bottom: 1000px; display: block;">
 <h2>Data Scientist</h2>
 <h3>TECHNICAL SKILLS</h3>
 <p>
