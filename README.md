@@ -29,19 +29,19 @@ layout: nofooter
 <p>Data Analysis, Machine Learning, Artificial intelligence, Time Series, Gen AI, LLM </p>
 <h3>TECHNICAL SKILLS</h3>
 <p>
-Machine Learning Algorithms: Supervised, Unsupervised and Reinforcement Algorithms; Time Series, NLP Algorithms: RNN, LSTM,GRU; MLOps, Statistics
+<b>Machine Learning Algorithms:</b> Supervised, Unsupervised and Reinforcement Algorithms; Time Series, NLP Algorithms: RNN, LSTM,GRU; MLOps, Statistics
 </p>
 <p>
-python libraries: NumPy, Panda, Matplotlib, Seaborn, Scikit and Keras
+<b>python libraries:</b> NumPy, Panda, Matplotlib, Seaborn, Scikit and Keras
 </p>
 <p>
-Generative AI: GPT, BERT, AWS BedRock, Azure Open AI Studio & Azure Machine Learning Studio, Vector Database, Word Embedding, Transformer, 
+<b>Generative AI:</b> GPT, BERT, AWS BedRock, Azure Open AI Studio & Azure Machine Learning Studio, Vector Database, Word Embedding, Transformer, 
 </p>
 <p>
-Tools: GIT, Docker, CI/CD Pipeline
+<b>Tools:</b> GIT, Docker, CI/CD Pipeline
 </p>
 <p>
-Cloud Platforms: AWS & Azure
+<b>Cloud Platforms:</b> AWS & Azure
 </p>
 <h3>Area Of Expertise </h3>
 <ul>
