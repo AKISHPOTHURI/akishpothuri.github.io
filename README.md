@@ -7,7 +7,16 @@ layout: default
   <!-- Left Side: Image -->
   <div style="flex: 1; min-width: 200px; text-align: left;">
     <img src="/assets/img/circledpic.png" alt="Profile Picture" width="180" style="border-radius: 50%;">
-    <h2>Akish Pothuri</h2>
+    <!-- <h2>Akish Pothuri</h2> -->
+    <p style="margin: 4px 0;">
+        <a href="https://www.linkedin.com/in/pothuriakish/" target="_blank">LinkedIn</a>
+    </p>
+    <p style="margin: 4px 0;">
+        📧 <a href="mailto:your.email@example.com">your.email@example.com</a>
+    </p>
+    <p style="margin: 4px 0;">
+        📞 +91-8367071795
+    </p>
   </div>
 
   <!-- Right Side: Text Content -->
