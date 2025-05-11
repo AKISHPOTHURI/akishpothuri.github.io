@@ -1,6 +1,6 @@
----
+<!-- ---
 layout: default
----
+--- -->
 
 <div style="display: flex; align-items: center; gap: 40px; padding: 20px; flex-wrap: wrap;">
 
