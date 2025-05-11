@@ -5,7 +5,7 @@ layout: default
 <div style="display: flex; align-items: center; gap: 40px; padding: 20px; flex-wrap: wrap;">
 
   <!-- Left Side: Image -->
-  <div style="flex: 1; min-width: 200px; text-align: center;">
+  <div style="flex: 1; min-width: 200px; text-align: left;">
     <img src="/assets/img/circledpic.png" alt="Profile Picture" width="180" style="border-radius: 50%;">
     <h2>Akish Pothuri</h2>
   </div>
