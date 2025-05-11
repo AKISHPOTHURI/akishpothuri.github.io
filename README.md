@@ -25,8 +25,11 @@ layout: nofooter
 <!-- Right Side: Text Content -->
 <div style="flex: 2; min-width: 300px">
 <h2>Data Scientist</h2>
-  <h3>FIELD OF INTEREST</h3>
-  <p><b>Data Analysis,Machine Learning,Artificial intelligence,Time Series,Gen AI,LLM</b></p>
+<p>
+Certified Microsoft Data Science Associate with 3+ years of specialized experience in Machine Learning (ML), Deep Learning (DL),and Generative AI. Proven track record of improving key outcomes in healthcare and supply chain sectors through analytical and innovative problem-solving. My work in data science is characterized by a strong dedication to data-driven solutions, consistently delivering high-quality results.
+</p>
+<h3>FIELD OF INTEREST</h3>
+<p>Data Analysis,Machine Learning,Artificial intelligence,Time Series,Gen AI,LLM</p>
 <h3>TECHNICAL SKILLS</h3>
 <p>
 <b>Machine Learning Algorithms:</b> Supervised, Unsupervised and Reinforcement Algorithms; Time Series, NLP Algorithms: RNN, LSTM,GRU; MLOps, Statistics
