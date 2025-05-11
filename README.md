@@ -20,6 +20,7 @@ layout: nofooter
   <p style="margin: 4px 0;">
       📞 +91-8367071795
   </p>
+  <p></p>
   <h3>FIELD OF INTEREST</h3>
   <ul>
     <li>Data Analysis </li> 
@@ -31,11 +32,8 @@ layout: nofooter
   </ul>
 </div>
 <!-- Right Side: Text Content -->
-<div style="flex: 2; min-width: 300px;">
+<div style="flex: 2; min-width: 300px;margin-bottom: 950px; display: block;">
 <h2>Data Scientist</h2>
-
-
-
 <h3>TECHNICAL SKILLS</h3>
 <p>
 <b>Machine Learning Algorithms:</b> Supervised, Unsupervised and Reinforcement Algorithms; Time Series, NLP Algorithms: RNN, LSTM,GRU; MLOps, Statistics
@@ -72,9 +70,3 @@ layout: nofooter
     <li>project 2</li>
 </ul>
 </div>
-<<<<<<< Updated upstream
-
-</div>
-=======
-</div>
->>>>>>> Stashed changes
