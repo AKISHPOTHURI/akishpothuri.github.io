@@ -24,9 +24,8 @@ layout: nofooter
 </div>
 <!-- Right Side: Text Content -->
 <div style="flex: 2; min-width: 300px">
-<h2>Data Scientist</h2>
 <p>
-Certified Microsoft Data Science Associate with 3+ years of specialized experience in Machine Learning (ML), Deep Learning (DL),and Generative AI. Proven track record of improving key outcomes in healthcare and supply chain sectors through analytical and innovative problem-solving. My work in data science is characterized by a strong dedication to data-driven solutions, consistently delivering high-quality results.
+Certified Microsoft Data Science Associate with over 3 years of experience applying Machine Learning (ML), Deep Learning (DL), and Generative AI to solve complex problems across healthcare, supply chain, and financial services domains. Adept at transforming raw data into actionable insights, building scalable models, and deploying end-to-end AI solutions. Known for a strong analytical mindset, commitment to innovation, and delivering high-impact results tailored to industry-specific needs.
 </p>
 <h3>FIELD OF INTEREST</h3>
 <p>Data Analysis,Machine Learning,Artificial intelligence,Time Series,Gen AI,LLM</p>
@@ -46,7 +45,7 @@ Certified Microsoft Data Science Associate with 3+ years of specialized experien
 <p>
 <b>Cloud Platforms:</b> AWS & Azure
 </p>
-<h3>Area Of Expertise </h3>
+<h3>AREA OF EXPERTISE</h3>
 <ul>
   <li>Skilled at collecting, cleaning, and analyzing data to build effective machine learning models.</li>
   <li>Proficient in using advanced statistical analysis and modelling techniques to uncover insights from large datasets.</li>
@@ -59,7 +58,7 @@ Certified Microsoft Data Science Associate with 3+ years of specialized experien
   <li>Solid understanding of CI/CD and Docker for continuous integration and deployment.</li>
 </ul>
 
-<h3>Work Experience</h3>
+<h3>WORK EXPERENCE</h3>
 <p>Data Scientist @ Credit/Debit Card Fraud Detection</p>
 <ul>
     <li>project 1</li>
