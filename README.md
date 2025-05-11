@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="/assets/img/circledpic.png" width="200"/>
-</p>
+</p> -->
 
 <!-- <h1 align="center">Akish Pothuri</h1> -->
 
