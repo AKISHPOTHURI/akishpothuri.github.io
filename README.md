@@ -12,7 +12,10 @@ layout: default
         <a href="https://www.linkedin.com/in/pothuriakish/" target="_blank">LinkedIn</a>
     </p>
     <p style="margin: 4px 0;">
-        📧 <a href="mailto:your.email@example.com">your.email@example.com</a>
+        <a href="https://github.com/AKISHPOTHURI" target="_blank">GitHub</a>
+    </p>
+    <p style="margin: 4px 0;">
+        📧 <a href="mailto:akishpothuri@gmail.com">your.email@example.com</a>
     </p>
     <p style="margin: 4px 0;">
         📞 +91-8367071795
