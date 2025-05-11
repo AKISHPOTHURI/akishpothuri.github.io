@@ -1,6 +1,6 @@
-<!-- ---
-layout: default
---- -->
+---
+layout: nofooter
+---
 
 <div style="display: flex; align-items: center; gap: 40px; padding: 20px; flex-wrap: wrap;">
 
@@ -38,3 +38,8 @@ layout: default
   </div>
 
 </div>
+
+<footer class="site-footer">
+  ...
+</footer>
+
