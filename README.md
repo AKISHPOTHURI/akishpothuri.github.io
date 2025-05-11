@@ -5,7 +5,7 @@ layout: nofooter
 <div style="display: flex; align-items: center; gap: 40px; padding: 20px; flex-wrap: wrap;">
 
 <!-- Left Side: Image -->
-<div style="flex: 1; min-width: 200px; text-align: left; margin-bottom: 950px; display: block;">
+<div style="flex: 1; min-width: 200px; text-align: left; margin-bottom: 1000px; display: block;">
   <img src="/assets/img/circledpic.png" alt="Profile Picture" width="180" style="border-radius: 50%;">
   <!-- <h2>Akish Pothuri</h2> -->
   <p style="margin: 4px 0;">
