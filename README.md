@@ -9,13 +9,13 @@ layout: default
     <img src="/assets/img/circledpic.png" alt="Profile Picture" width="180" style="border-radius: 50%;">
     <!-- <h2>Akish Pothuri</h2> -->
     <p style="margin: 4px 0;">
-        <a href="https://www.linkedin.com/in/pothuriakish/" target="_blank">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/pothuriakish/" target="_blank">LinkedIn Profile</a>
     </p>
     <p style="margin: 4px 0;">
-        <a href="https://github.com/AKISHPOTHURI" target="_blank">GitHub</a>
+        <a href="https://github.com/AKISHPOTHURI" target="_blank">GitHub Profile</a>
     </p>
     <p style="margin: 4px 0;">
-        📧 <a href="mailto:akishpothuri@gmail.com">your.email@example.com</a>
+        📧 <a href="mailto:akishpothuri@gmail.com">akishpothuri@gmail.com</a>
     </p>
     <p style="margin: 4px 0;">
         📞 +91-8367071795
