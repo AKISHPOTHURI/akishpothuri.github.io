@@ -38,8 +38,3 @@ layout: nofooter
   </div>
 
 </div>
-
-<footer class="site-footer">
-  ...
-</footer>
-
