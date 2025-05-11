@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="/assets/img/circledpic.png" width="200" alt="Profile Picture"/>
+  <img src="/assets/img/circledpic.png" width="200"/>
 </p>
 
-<h1 align="center">Akish Pothuri</h1>
+<!-- <h1 align="center">Akish Pothuri</h1> -->
 
 # Data Scientist
 
