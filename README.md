@@ -24,7 +24,7 @@ layout: nofooter
 </div>
 <!-- Right Side: Text Content -->
 <div style="flex: 2; min-width: 300px">
-<div style="border-left: 4px solid #0078D4; border-right: 4px solid #0078D4; padding: 10px; margin: 20px 0; text-align: justify;">
+<div style="padding: 10px; margin: 20px 0; text-align: justify;">
   Data Scientist with 3+ years of experience applying Machine Learning (ML), Deep Learning (DL), and Generative AI to solve real-world problems across healthcare, supply chain, and financial services domains. Adept at transforming raw data into actionable insights, building scalable predictive models, and deploying end-to-end AI solutions. Known for a strong analytical mindset, a commitment to innovation, and consistently delivering high-impact results tailored to industry-specific needs.
 </div>
 <p>
@@ -34,13 +34,13 @@ Certified Microsoft Data Science Associate with over 3 years of experience apply
 <p>Data Analysis,Machine Learning,Artificial intelligence,Time Series,Gen AI,LLM</p>
 <h3>TECHNICAL SKILLS</h3>
 <p>
+<b>python libraries:</b> NumPy, Panda, Matplotlib, Seaborn, Scikit and Keras.
+</p>
+<p>
 <b>Machine Learning Algorithms:</b> Supervised, Unsupervised and Reinforcement Algorithms; Time Series,MLOps, Statistics.
 </p>
 <p>
  <b>NLP Algorithms:</b> RNN,LSTM,GRU. 
-</p>
-<p>
-<b>python libraries:</b> NumPy, Panda, Matplotlib, Seaborn, Scikit and Keras.
 </p>
 <p>
 <b>Generative AI:</b> GPT, BERT, AWS BedRock, Azure Open AI Studio & Azure Machine Learning Studio, Vector Database, Word Embedding, Transformer.
