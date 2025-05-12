@@ -31,19 +31,22 @@ Certified Microsoft Data Science Associate with over 3 years of experience apply
 <p>Data Analysis,Machine Learning,Artificial intelligence,Time Series,Gen AI,LLM</p>
 <h3>TECHNICAL SKILLS</h3>
 <p>
-<b>Machine Learning Algorithms:</b> Supervised, Unsupervised and Reinforcement Algorithms; Time Series, NLP Algorithms: RNN, LSTM,GRU; MLOps, Statistics
+<b>Machine Learning Algorithms:</b> Supervised, Unsupervised and Reinforcement Algorithms; Time Series,MLOps, Statistics.
 </p>
 <p>
-<b>python libraries:</b> NumPy, Panda, Matplotlib, Seaborn, Scikit and Keras
+ <b>NLP Algorithms:</b> RNN,LSTM,GRU. 
 </p>
 <p>
-<b>Generative AI:</b> GPT, BERT, AWS BedRock, Azure Open AI Studio & Azure Machine Learning Studio, Vector Database, Word Embedding, Transformer, 
+<b>python libraries:</b> NumPy, Panda, Matplotlib, Seaborn, Scikit and Keras.
 </p>
 <p>
-<b>Tools:</b> GIT, Docker, CI/CD Pipeline
+<b>Generative AI:</b> GPT, BERT, AWS BedRock, Azure Open AI Studio & Azure Machine Learning Studio, Vector Database, Word Embedding, Transformer.
 </p>
 <p>
-<b>Cloud Platforms:</b> AWS & Azure
+<b>Tools:</b> GIT, Docker, CI/CD Pipeline.
+</p>
+<p>
+<b>Cloud Platforms:</b> AWS & Azure.
 </p>
 <h3>AREA OF EXPERTISE</h3>
 <ul>
@@ -58,7 +61,7 @@ Certified Microsoft Data Science Associate with over 3 years of experience apply
   <li>Solid understanding of CI/CD and Docker for continuous integration and deployment.</li>
 </ul>
 
-<h3>WORK EXPERENCE</h3>
+<h3>WORK EXPERIENCE</h3>
 <p>Data Scientist @ Credit/Debit Card Fraud Detection</p>
 <ul>
     <li>project 1</li>
