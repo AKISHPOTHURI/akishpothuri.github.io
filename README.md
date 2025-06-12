@@ -24,9 +24,8 @@ layout: nofooter
 </div>
 <!-- Right Side: Text Content -->
 <div style="flex: 2; min-width: 300px">
-<!-- <div style="flex: 2; min-width: 300px;text-align: justify;"> -->
 Certified Microsoft Data Science Associate with over 3 years of experience applying Machine Learning (ML), Deep Learning (DL), and Generative AI to solve complex problems across healthcare, supply chain, and financial services domains. Adept at transforming raw data into actionable insights, building scalable models, and deploying end-to-end AI solutions. Known for a strong analytical mindset, commitment to innovation, and delivering high-impact results tailored to industry-specific needs.
-<!-- </div> -->
+<p></p>
 <h3>FIELD OF INTEREST</h3>
 <p>Data Analysis,Machine Learning,Artificial intelligence,Time Series,Gen AI,LLM</p>
 <h3>TECHNICAL SKILLS</h3>
@@ -61,11 +60,37 @@ Certified Microsoft Data Science Associate with over 3 years of experience apply
   <li>Solid understanding of CI/CD and Docker for continuous integration and deployment.</li>
 </ul>
 
-<h3>WORK EXPERIENCE</h3>
-<p>Data Scientist @ Credit/Debit Card Fraud Detection</p>
+<!-- <h3>WORK EXPERIENCE</h3>
+<p>Associate Software Engineer</p>
 <ul>
     <li>project 1</li>
     <li>project 2</li>
+</ul> -->
+<h3>WORK EXPERIENCE</h3>
+
+<p><b>Associate Software Engineer (Data Science), Innova Solutions</b> – July 2022 – Present</p>
+<ul>
+  <li><b>Demand Forecasting (Commercial Aviation):</b> Developed a comprehensive forecasting solution for aircraft parts to ensure optimal inventory management for a commercial aviation company.</li>
+  <li>Conducted in-depth analysis of intermittent demand, identifying key parts responsible for 18% of overall demand, leading to strategic inventory planning.</li>
+  <li>Enhanced forecast accuracy by engineering features based on demand patterns.</li>
+  <li>Explored a variety of analytical approaches, including LSTM, AutoRegressive models, anomaly detection, and pre-trained models for adaptive forecasting.</li>
+  <li><b>Technologies:</b> AWS S3, SageMaker, LSTM, Pre-trained Models, Anomaly Detection, AutoRegressive Models, Machine Learning.</li>
+</ul>
+
+<p><b>Junior Software Engineer (Data Science), Innova Solutions</b></p>
+<ul>
+  <li><b>Sentiment Analysis on Restaurant Reviews:</b> Built a sentiment analysis solution to help clients understand customer feedback and improve service quality.</li>
+  <li>Achieved 85% accuracy and 84% F1-score, driving a 20% sales boost from actionable insights.</li>
+  <li>Optimized deployment with scalable and cost-efficient infrastructure using AWS Lambda and API Gateway.</li>
+  <li>Developed secure, user-friendly APIs for seamless client integration and data access.</li>
+  <li><b>Technologies:</b> AWS S3, SageMaker, Deep Learning Containers, API Gateway, Lambda, FastAPI, DistilBERT, LSTM.</li>
+</ul>
+
+<p><b>Relevant Project – Medical Chatbot Leveraging AI</b></p>
+<ul>
+  <li>Created a chatbot to handle FAQs, doctor appointment scheduling, and early symptom checks with doctor recommendations.</li>
+  <li>Reduced manual workload by 30% and significantly improved response times and patient satisfaction.</li>
+  <li><b>Technologies:</b> Azure Blob, Azure OpenAI Search, Azure OpenAI Studio, Python, LangChain, GPT-3.</li>
 </ul>
 </div>
 </div>
