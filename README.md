@@ -98,8 +98,8 @@ Certified Microsoft Data Science Associate with over 3 years of experience apply
   <li><b>Technologies:</b> AWS S3, SageMaker, Deep Learning Containers, API Gateway, Lambda, FastAPI, DistilBERT, LSTM.</li>
 </ul>
 
-<p><b>Relevant Project – Medical Chatbot Leveraging AI</b></p>
 <ul>
+  <b>Relevant Project – Medical Chatbot Leveraging AI</b>
   <li>Created a chatbot to handle FAQs, doctor appointment scheduling, and early symptom checks with doctor recommendations.</li>
   <li>Reduced manual workload by 30% and significantly improved response times and patient satisfaction.</li>
   <li><b>Technologies:</b> Azure Blob, Azure OpenAI Search, Azure OpenAI Studio, Python, LangChain, GPT-3.</li>
