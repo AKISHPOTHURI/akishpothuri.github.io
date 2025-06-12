@@ -68,10 +68,10 @@ Certified Microsoft Data Science Associate with over 3 years of experience apply
 </ul> -->
 <h3>WORK EXPERIENCE</h3>
 
-<p><b>Machine Learning Engineer (Ikspida) @Rupay Cards</b> – Feb 2025 - present</p>
+<p><b>Machine Learning Engineer@Rupay Cards, Ikspida </b> – Feb 2025 - present</p>
 <!-- <ul>
   <b>Fraud Detection:</b>
-  <li> Developed a comprehensive forecasting solution for aircraft parts to ensure optimal inventory management for a commercial aviation company.</li>
+  <li> Developed a compreh;ensive forecasting solution for aircraft parts to ensure optimal inventory management for a commercial aviation company.</li>
   <li>Conducted in-depth analysis of intermittent demand, identifying key parts responsible for 18% of overall demand, leading to strategic inventory planning.</li>
   <li>Enhanced forecast accuracy by engineering features based on demand patterns.</li>
   <li>Explored a variety of analytical approaches, including LSTM, AutoRegressive models, anomaly detection, and pre-trained models for adaptive forecasting.</li>
