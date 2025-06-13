@@ -71,11 +71,15 @@ Certified Microsoft Data Science Associate with over 3 years of experience apply
 <p><b>Machine Learning Engineer@Rupay Cards, Ikspida </b> – Mar 2025 - present</p>
 <ul>
   <b>Fraud Detection</b>
-  <!-- <li> Developed a compreh;ensive forecasting solution for aircraft parts to ensure optimal inventory management for a commercial aviation company.</li>
-  <li>Conducted in-depth analysis of intermittent demand, identifying key parts responsible for 18% of overall demand, leading to strategic inventory planning.</li>
-  <li>Enhanced forecast accuracy by engineering features based on demand patterns.</li>
-  <li>Explored a variety of analytical approaches, including LSTM, AutoRegressive models, anomaly detection, and pre-trained models for adaptive forecasting.</li>
-  <li><b>Technologies:</b> Service Code, DBT, Kubeflow,LSTM, Pre-trained Models, Anomaly Detection, AutoRegressive Models, Machine Learning.</li> -->
+  <li> Designed and deployed real-time fraud detection models to decline high-risk payment transactions, reducing monthly fraud losses by ~20%.</li>
+  <li>Built scalable ML pipelines to process and score ~2.5 million transactions daily, optimizing model inference to run in ~8 milliseconds, with total system latency maintained at ~30 milliseconds.</li>
+  <li>Automated data preprocessing and feature engineering pipelines using DBT, ensuring consistent and version-controlled transformations across environments.</li>
+  <li>Orchestrated end-to-end ML workflows using Kubeflow for scalable and automated machine learning operations. 
+  </li>
+  <li>Utilized a tree-based model and applied advanced techniques for feature engineering and handling severe class imbalance.
+  </li>
+  <li>Collaborated with data engineers, risk analysts, and product teams to align technical solutions with evolving fraud patterns and compliance requirements.</li>
+  <li><b>Technologies:</b>model optimization,Tuning model,automate,SQL,Data Validation,Feature Creation,DBT, Kubeflow,Machine Learning</li>
 </ul>
 
 <p><b>Associate Software Engineer (Data Science), Innova Solutions</b> – July 2022 – Feb 2025</p>
