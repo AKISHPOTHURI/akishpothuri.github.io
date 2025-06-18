@@ -60,18 +60,12 @@ Certified Microsoft Data Science Associate with over 3 years of experience apply
   <li>Solid understanding of CI/CD and Docker for continuous integration and deployment.</li>
 </ul>
 
-<!-- <h3>WORK EXPERIENCE</h3>
-<p>Associate Software Engineer</p>
-<ul>
-    <li>project 1</li>
-    <li>project 2</li>
-</ul> -->
 <h3>WORK EXPERIENCE</h3>
 
 <p><b>Machine Learning Engineer, Ikspida </b> – Mar 2025 - present</p>
 <ul>
   <b>Fraud Detection (Rupay Cards)</b>
-  <li> Designed and deployed real-time fraud detection models to decline high-risk payment transactions, reducing monthly fraud losses by ~20%.</li>
+  <li> Designed and developed real-time fraud detection models to decline high-risk payment transactions, reducing monthly fraud losses by ~20%.</li>
   <li>Built scalable ML pipelines to process and score ~2.5 million transactions daily, optimizing model inference to run in ~8 milliseconds, with total system latency maintained at ~30 milliseconds.</li>
   <li>Automated data preprocessing and feature engineering pipelines using DBT, ensuring consistent and version-controlled transformations across environments.</li>
   <li>Orchestrated end-to-end ML workflows using Kubeflow for scalable and automated machine learning operations. 
@@ -79,7 +73,7 @@ Certified Microsoft Data Science Associate with over 3 years of experience apply
   <li>Utilized a tree-based model and applied advanced techniques for feature engineering and handling severe class imbalance.
   </li>
   <li>Collaborated with data engineers, risk analysts, and product teams to align technical solutions with evolving fraud patterns and compliance requirements.</li>
-  <li><b>Technologies:</b>model optimization,Tuning model,automate,SQL,Data Validation,Feature Creation,DBT, Kubeflow,Machine Learning</li>
+  <li><b>Technologies:</b> model optimization,Tuning model,automate,SQL,Data Validation,Feature Creation,DBT, Kubeflow,Machine Learning</li>
 </ul>
 
 <p><b>Associate Software Engineer (Data Science), Innova Solutions</b> – July 2022 – Feb 2025</p>
