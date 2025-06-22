@@ -27,7 +27,7 @@ layout: nofooter
 </div>
 <!-- Right Side: Text Content -->
 <div style="flex: 2; min-width: 300px">
-Certified Microsoft Data Science Associate with over 3 years of experience applying Machine Learning (ML), Deep Learning (DL), and Generative AI to solve complex problems across healthcare, supply chain, and financial services domains. Adept at transforming raw data into actionable insights, building scalable models, and deploying end-to-end AI solutions. Known for a strong analytical mindset, commitment to innovation, and delivering high-impact results tailored to industry-specific needs.
+Certified Microsoft Data Science Associate with over 3+ years of experience applying Machine Learning (ML), Deep Learning (DL), and Generative AI to solve complex problems across healthcare, supply chain, and financial services domains. Adept at transforming raw data into actionable insights, building scalable models, and deploying end-to-end AI solutions. Known for a strong analytical mindset, commitment to innovation, and delivering high-impact results tailored to industry-specific needs.
 <p></p>
 <h3>FIELD OF INTEREST</h3>
 <p>Data Analysis,Machine Learning,Artificial intelligence,Time Series,Gen AI,LLM</p>
