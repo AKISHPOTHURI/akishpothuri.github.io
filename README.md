@@ -20,6 +20,9 @@ layout: nofooter
   <p style="margin: 4px 0;">
       📞 +91-8367071795
   </p>
+  <p style="margin: 4px 0;">
+    📄 <a href="https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing" target="_blank">View Resume</a>
+  </p>
   <p></p>
 </div>
 <!-- Right Side: Text Content -->
