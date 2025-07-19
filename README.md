@@ -45,7 +45,7 @@ Certified Microsoft Data Science Associate with over 3+ years of experience appl
 <b>Generative AI:</b> GPT, BERT, AWS BedRock, Azure Open AI Studio & Azure Machine Learning Studio, Vector Database, Word Embedding, Transformer.
 </p>
 <p>
-<b>Tools:</b> GIT, Docker, CI/CD Pipeline.
+<b>Tools:</b> GIT, Docker(Basic), CI/CD Pipeline(Basic).
 </p>
 <p>
 <b>Cloud Platforms:</b> AWS & Azure.
