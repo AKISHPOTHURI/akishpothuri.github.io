@@ -21,7 +21,7 @@ layout: nofooter
       📞 +91-8367071795
   </p>
   <p style="margin: 4px 0;">
-    📄 <a href="https://drive.google.com/file/d/1i-mcKTJ0A9UKwSr23P6kBOu9gmQw2tqC/view?usp=sharing" target="_blank">View Resume</a>
+    📄 <a href="https://drive.google.com/file/d/1TDx3NIOpNz8Db_Lm0T5lL3qu10X1hMxj/view?usp=sharing" target="_blank">View Resume</a>
   </p>
   <p></p>
 </div>
