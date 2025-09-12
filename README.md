@@ -67,7 +67,7 @@ Certified Microsoft Data Science Associate with over 3+ years of experience appl
 
 <p><b>Machine Learning Engineer, Ikspida </b> – Mar 2025 - present</p>
 <ul>
-  <b>Fraud Detection (NPCI-Rupay Cards)</b>
+  <b>Fraud Detection (Rupay Cards)</b>
   <li> Designed and developed real-time fraud detection models to decline high-risk payment transactions, reducing monthly fraud losses by ~20%.</li>
   <li>Built scalable ML pipelines to process and score ~2.5 million transactions daily, optimizing model inference to run in ~8 milliseconds, with total system latency maintained at ~30 milliseconds.</li>
   <li>Automated data preprocessing and feature engineering pipelines using DBT, ensuring consistent and version-controlled transformations across environments.</li>
