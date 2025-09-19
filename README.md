@@ -18,7 +18,7 @@ layout: nofooter
       📧 <a href="mailto:akishpothuri@gmail.com">akishpothuri@gmail.com</a>
   </p>
   <p style="margin: 4px 0;">
-      📞 +91-8367071795
+      📞 +91-8367071795.
   </p>
   <p style="margin: 4px 0;">
     📄 <a href="https://drive.google.com/file/d/1TDx3NIOpNz8Db_Lm0T5lL3qu10X1hMxj/view?usp=sharing" target="_blank">View Resume</a>
