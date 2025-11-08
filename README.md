@@ -21,13 +21,13 @@ layout: nofooter
       📞 +91-8367071795.
   </p>
   <p style="margin: 4px 0;">
-    📄 <a href="https://drive.google.com/file/d/1TDx3NIOpNz8Db_Lm0T5lL3qu10X1hMxj/view?usp=sharing" target="_blank">View Resume</a>
+    📄 <a href="" target="_blank">View Resume</a>
   </p>
   <p></p>
 </div>
 <!-- Right Side: Text Content -->
 <div style="flex: 2; min-width: 300px">
-Certified Microsoft Data Science Associate with over 3+ years of experience applying Machine Learning (ML), Deep Learning (DL), and Generative AI to solve complex problems across healthcare, supply chain, and financial services domains. Adept at transforming raw data into actionable insights, building scalable models, and deploying end-to-end AI solutions. Known for a strong analytical mindset, commitment to innovation, and delivering high-impact results tailored to industry-specific needs.
+Certified Microsoft Data Science Associate with hands-on experience in applying Machine Learning (ML), Deep Learning (DL), and Generative AI to solve complex problems across healthcare, supply chain, and financial services domains. Skilled in transforming raw data into actionable insights, developing scalable models, and deploying end-to-end AI solutions. Recognized for a strong analytical mindset, innovative approach, and ability to deliver high-impact results tailored to industry-specific needs.
 <p></p>
 <h3>FIELD OF INTEREST</h3>
 <p>Data Analysis,Machine Learning,Artificial intelligence,Time Series,Gen AI,LLM</p>
